@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ProjetoVeterinario
 {
-    public partial class Pedido : Form
+    public partial class Plano : Form
     {
-        public Pedido()
+        public Plano()
         {
             InitializeComponent();
         }
